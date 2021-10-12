@@ -1,8 +1,8 @@
 ### Hi there I'm Yasiru Dahanayaka👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirulak&label=Profile%20views&color=0e75b6&style=flat" alt="yasirulak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirulak" alt="yasirulak" /></a> </p>
+<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
+<img src="https://badges.pufler.dev/visits/M4cs/M4cs">
+<img src="https://badges.pufler.dev/years/M4cs">
 
 - 🔭 I’m currently working on Freelance Thanks for dropping by! I like to Code and Learn to build the next generation applications.
 - 🌱 I’m currently learning Computer Science
@@ -30,12 +30,11 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></a></a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirulak&show_icons=true&locale=en&layout=compact" alt="yasirulak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirulak&show_icons=true&locale=en" alt="yasirulak" /></p>
+![undraw_programming_2svr](https://user-images.githubusercontent.com/80274745/136948761-b51aef82-51d9-47e4-838e-7fe2d8f762fe.png)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirulak&" alt="yasirulak" /></p>
