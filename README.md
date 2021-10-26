@@ -4,6 +4,8 @@
 <img src="https://badges.pufler.dev/visits/M4cs/M4cs">
 <img src="https://badges.pufler.dev/years/M4cs">
 
+[![GitHub followers](https://img.shields.io/github/followers/yasirulak.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yasirulak?tab=followers)
+
 - 🔭 I’m currently working on Freelance Thanks for dropping by! I like to Code and Learn to build the next generation applications.
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on ...
@@ -36,7 +38,15 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirulak&show_icons=true&locale=en&layout=compact" alt="yasirulak" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yasirulak&show_icons=true&theme=gotham" alt="yasirulak | Stats" />
+  
+ [comment]: <> (<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirulak&langs_count=5&theme=gotham" alt="yasirulak | My GitHub Language Stats" />)
+<p align="left"> <a href="https://github.com/yasirulak/github-readme-stats"><img alt="yasirulak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirulak&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>
 
-![undraw_programming_2svr](https://user-images.githubusercontent.com/80274745/136948761-b51aef82-51d9-47e4-838e-7fe2d8f762fe.png)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirulak&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirulak&theme=monokai)
+
+[![](https://github-readme-streak-stats.herokuapp.com?user=yasirulak&theme=soft-green)](https://git.io/streak-stats)
+
 
