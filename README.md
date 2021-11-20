@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Coding
-- 💬 Ask me about anything : +94 76 83 83 493 
+- 💬 Ask me about anything : <a href="tel:+94 76 83 83 493">0768383493</a> 
 - <a href="mailto:yasirudahanayaka19@gmail.com"><img alt="Gmail" title="Yasiru Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 - 📫 How to reach me: <p align="left">
 <a href="https://twitter.com/yasiru1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__Yasiru__" height="30" width="40" /></a>
