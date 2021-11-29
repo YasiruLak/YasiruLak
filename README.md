@@ -1,6 +1,5 @@
-<p align="Center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasiru+Lakshitha+Dahanayaka;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
-</p>
+<h1 align="center">Hi 👋, I'm Yasiru Dahanayaka</h1>
+<h3 align="center">Full Stack Software Developer</h3>
 
 <p align="Right">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
