@@ -14,8 +14,9 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Coding
 - 💬 Ask me about anything : <a href="tel:+94 76 83 83 493">076 - 83 83 493</a> 
-- <a href="mailto:yasirudahanayaka19@gmail.com"><img alt="Gmail" title="Yasiru Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-- 📫 How to reach me: <p align="left">
+- 😄 Pronouns : "yash"
+- ⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
+<h3 align="left">📫 How to reach me:</h3>
 <a href="https://twitter.com/yasiru1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__Yasiru__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yasiru-dahanayaka-8bb47319a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14816490/yasiru-dahanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yashitha" height="30" width="40" /></a>
@@ -24,11 +25,7 @@
 <a href="https://www.youtube.com/channel/UCbvzSU2PG2m_y5ie8tDAkmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Yasiru Dahanayaka" height="30" width="40" /></a>
 </p>
 
-- 😄 Pronouns: he/him/his/yasi/yash
-
-- ⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">📫 Languages and Tools:</h3>
 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
