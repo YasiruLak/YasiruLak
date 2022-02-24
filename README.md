@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasiru Dahanayaka</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="Right">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
