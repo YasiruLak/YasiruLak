@@ -17,6 +17,9 @@
 - 😄 Pronouns : "yash"
 - ⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
 - http://yasirudahanayaka.epizy.com/
+
+<a href='https://ko-fi.com/E1E3CEUYM' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 <h3 align="left">📫 How to reach me:</h3>
 <a href="https://twitter.com/yasiru1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__Yasiru__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yasiru-dahanayaka-8bb47319a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
