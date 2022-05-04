@@ -18,14 +18,12 @@
 - ⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
 - http://yasirudahanayaka.epizy.com/
 
-</div>
 
 <h3 align="left">📫 Donation:</h3>
 
 <h4 align="left">If you like what i do, maybe consider buying me a coffee🥺 👇</h4>
 
 <a href='https://ko-fi.com/E1E3CEUYM' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 
 
 <h3 align="left">📫 How to reach me:</h3>
@@ -38,9 +36,7 @@
 </p>
 
 
-
 <h3 align="left">📫 Languages and Tools:</h3>
-
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
@@ -58,14 +54,12 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40" height="40"/></a>
 <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="40" height="40"/></a>
 
-## 📊 Github stats
 
+<h3 align="left">📫 Github stats:</h3>
 <a href=""><img alt="Yasiru Dahanayaka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yasirulak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>|<a href=""><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yasiru Dahanayaka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirulak&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 |---|---|
 |<a href=""><img alt="Yasiru Dahanayaka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirulak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <a href="https://github.com/yasirulak/github-readme-activity-graph"><img alt="Yasiru Dahanayaka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yasirulak&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
 
 
