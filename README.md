@@ -9,16 +9,24 @@
 </p>
 
 
-- 🔭 I’m currently working on Freelance Thanks for dropping by! I like to Code and Learn to build the next generation applications.
-- 🌱 I’m currently learning Computer Science
+- 🔭 I’m currently working on Freelance Thanks for dropping by! I like to Code and Learn to build the `next generation applications`.
+- 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Coding
-- 💬 Ask me about anything : <a href="tel:+94 76 83 83 493">076 - 83 83 493</a> 
-- 😄 Pronouns : "yash"
+- 🤔 I’m looking for help with `Coding`
+- 💬 Ask me about anything : <a href="tel:+94 76 83 83 493">`076 - 83 83 493`</a> 
+- 😄 Pronouns : `yasi`
 - ⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
 - http://yasirudahanayaka.epizy.com/
 
+</div>
+
+<h3 align="left">📫 Donation:</h3>
+
+<h4 align="left">If you like what i do, maybe consider buying me a coffee🥺 👇</h4>
+
 <a href='https://ko-fi.com/E1E3CEUYM' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+
 
 <h3 align="left">📫 How to reach me:</h3>
 <a href="https://twitter.com/yasiru1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__Yasiru__" height="30" width="40" /></a>
@@ -28,6 +36,8 @@
 <a href="https://fb.com/Yasiru Dahanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yasiru Dahanayaka" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCbvzSU2PG2m_y5ie8tDAkmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Yasiru Dahanayaka" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">📫 Languages and Tools:</h3>
 
