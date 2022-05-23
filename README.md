@@ -16,7 +16,6 @@
 - 💬 Ask me about anything : <a href="tel:+94 76 83 83 493">`076 - 83 83 493`</a> 
 - 😄 Pronouns : `yasi`
 - ⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
-- http://yasirudahanayaka.epizy.com/
 
 
 <h3 align="left">📫 Donation:</h3>
